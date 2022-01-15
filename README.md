@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ellapav
-- 👀 I’m interested in geometric inverse problems and machine learning.
-- 🌱 I’m currently pursuing my PhD in Mathematics at NC State.
+- 👀 I’m interested in geometric inverse problems, imaging, and machine learning.
+- 🌱 I’m currently a PhD candidate in Mathematics at NC State.
 - 📫 You can reach me at epavlec@ncsu.edu.
 
 <!---
