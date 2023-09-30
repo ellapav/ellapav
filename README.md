@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ellapav
-- 👀 I’m interested in geometric inverse problems, imaging, and machine learning.
-- 🌱 I’m an Analyst at SAS with a PhD in Mathematics from NC State.
+- 👀 I'm a mathematician with a PhD who specializes in Machine Learning, Computer Vision, Differential Geometry, Topology, Advanced Data Analytics, and Data Visualization.
+- 🌱 I’m working as an Analytical Consultant at SAS.
 
 <!---
 ellapav/ellapav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
